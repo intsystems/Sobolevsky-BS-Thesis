@@ -1,0 +1,16 @@
+{
+    "A new approach to scaling summarization, called hierarchical summarization, is proposed, and the first implemented system, SUMMA, is presented.": {
+        "A new hierarchical summation task has been introduced and formalized.": {
+            "A hierarchical summary of a document collection is a set of summaries organized into a hierarchy.": {}
+        },
+        "SUMMA, the first hierarchical system for summarizing a collection of documents, is described.": {
+            "The task is simplified by breaking it down into two stages: hierarchical clustering and cluster summarization.": {},
+            "After assessing the significance, redundancy, and two forms of consistency, this information is combined into a single objective function that measures the quality of a possible hierarchical summary.": {}
+        },
+        "The authors present a user study that compares hierarchical summarization with timeline summaries and regular summaries from multiple documents when studying a complex topic.": {
+            "The approaches are compared on collections of news texts on ten different topics.": {},
+            "In the study, users prefer hierarchical summaries three times more than timeline summaries, and ten times more than regular ones.": {},
+            "In the study of knowledge acquisition through reading and informativeness, hierarchical summaries showed significantly better results than timelines, but about the same as conventional MDS systems.": {}
+        }
+    }
+}
