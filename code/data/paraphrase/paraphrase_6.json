@@ -1,0 +1,16 @@
+{
+  "A semantic-aware text tree edit distance method merging Zhang-Shasha's algorithm with deep learning embeddings.": {
+    "The core advancement is the integration of transformer-based semantic similarity measures.": {
+      "Meaning similarity is computed as the distance between neural embeddings.": {},
+      "State-of-the-art language models encode textual semantics for accurate comparison.": {}
+    },
+    "Zhang-Shasha's framework is augmented with meaning-sensitive operation costs.": {
+      "Node modification expenses reflect their semantic relationship.": {},
+      "Insertion and deletion costs are defined relative to an empty semantic representation.": {}
+    },
+    "This approach delivers superior text tree similarity evaluation": {
+      "Current methodologies compromise either on structural or semantic analysis.": {},
+      "Practical applications involve comparing hierarchical information representations.": {}
+    }
+  }
+}

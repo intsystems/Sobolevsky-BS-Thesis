@@ -1,0 +1,16 @@
+{
+  "A Multilingual Algorithm for Text Tree Edit Distance Enhancing Zhang-Shasha's Algorithm with Cross-Lingual BERT Embeddings": {
+    "The algorithm introduces cross-lingual embeddings for multilingual tree comparison.": {
+      "Embedding distance works across different languages using aligned vector spaces.": {},
+      "The language model captures semantic meaning regardless of the input language.": {}
+    },
+    "Zhang-Shasha's algorithm is enhanced with language-agnostic edit costs.": {
+      "Semantic similarity is normalized across language-specific embeddings.": {},
+      "Insertion and removal costs account for language-specific empty sentence representations.": {}
+    },
+    "The proposed algorithm breaks language barriers in text tree comparison": {
+      "Existing methods cannot compare hierarchical texts in different languages.": {},
+      "This method enables cross-lingual comparison of mind maps or international document structures.": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "A Quantum-Inspired Algorithm for Text Tree Edit Distance Using Zhang-Shasha's Algorithm with Quantum Embedding Similarity": {
+    "The algorithm employs quantum-inspired embeddings to measure semantic similarity.": {
+      "Embedding distance is computed using quantum kernel methods for high-dimensional spaces.": {},
+      "The language model leverages quantum-inspired optimization for sentence encoding.": {}
+    },
+    "Zhang-Shasha's algorithm is modified to work with quantum probability-based edit costs.": {
+      "Semantic similarity is treated as a quantum superposition of possible matches.": {},
+      "Insertion and removal costs are defined using quantum entanglement metrics.": {}
+    },
+    "The proposed algorithm explores quantum computing advantages for text tree comparison": {
+      "Classical methods struggle with exponential complexity in large tree comparisons.": {},
+      "This method could revolutionize comparison of hierarchical data in quantum machine learning.": {}
+    }
+  }
+}

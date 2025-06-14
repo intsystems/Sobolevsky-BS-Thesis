@@ -1,0 +1,16 @@
+{
+  "A neural-semantic approach to text tree edit distance extending Zhang-Shasha's method.": {
+    "The novel contribution is the application of contextual embeddings for similarity judgment.": {
+      "Semantic affinity is measured through neural network representations.": {},
+      "Modern NLP models enable sophisticated understanding of textual meaning relationships.": {}
+    },
+    "Zhang-Shasha's tree comparison is upgraded with semantically-informed costs.": {
+      "Node alteration expenses are based on their meaning divergence.": {},
+      "The cost basis for insertions/deletions involves comparison with null semantic vectors.": {}
+    },
+    "This method offers comprehensive text tree similarity assessment": {
+      "Present techniques are inadequate in addressing both structure and meaning.": {},
+      "Applicable to various hierarchical text analysis scenarios.": {}
+    }
+  }
+}

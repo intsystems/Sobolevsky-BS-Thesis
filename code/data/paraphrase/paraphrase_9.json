@@ -1,0 +1,16 @@
+{
+  "A contextually-informed text tree similarity computation adapting Zhang-Shasha's algorithm.": {
+    "The key innovation is the semantic evaluation using transformer model embeddings.": {
+      "Meaning similarity is assessed through high-dimensional vector distances.": {},
+      "Cutting-edge language models provide robust semantic interpretation capabilities.": {}
+    },
+    "The standard Zhang-Shasha procedure is modified with contextual cost functions.": {
+      "Node operation costs incorporate their semantic relationships.": {},
+      "Insertion/removal penalties are established via comparison with void content embeddings.": {}
+    },
+    "This framework enables more insightful text tree comparisons": {
+      "Current solutions are constrained by focusing on either form or meaning.": {},
+      "Particularly useful for analyzing structured knowledge representations.": {}
+    }
+  }
+}

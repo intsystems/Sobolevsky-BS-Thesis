@@ -1,0 +1,16 @@
+{
+  "A Parallelized Algorithm for Text Tree Edit Distance Extending Zhang-Shasha's Algorithm with Distributed BERT Embeddings": {
+    "The algorithm's innovation lies in its distributed computation of BERT-like embeddings.": {
+      "Embedding distance is computed in parallel across multiple GPUs to accelerate similarity measurement.": {},
+      "The language model's inference is optimized for batch processing of tree nodes.": {}
+    },
+    "Zhang-Shasha's algorithm is adapted for parallel execution with distributed edit costs.": {
+      "Semantic similarity updates are computed asynchronously across nodes.": {},
+      "Insertion and removal costs are precomputed in bulk to minimize latency.": {}
+    },
+    "The proposed algorithm is designed for large-scale text tree comparisons": {
+      "Traditional methods are too slow for comparing massive hierarchical datasets.": {},
+      "This approach enables real-time comparison of extensive mind maps or document outlines.": {}
+    }
+  }
+}

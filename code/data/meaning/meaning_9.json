@@ -1,0 +1,16 @@
+{
+  "A Real-Time Algorithm for Text Tree Edit Distance Optimizing Zhang-Shasha's Algorithm with Lightweight BERT Embeddings": {
+    "The algorithm's breakthrough is its use of distilled BERT-like embeddings for speed.": {
+      "Embedding distance is computed using efficient, compact language models.": {},
+      "The model sacrifices minimal accuracy for significant performance gains.": {}
+    },
+    "Zhang-Shasha's algorithm is optimized for low-latency operation.": {
+      "Semantic similarity updates use cached embeddings and approximate nearest neighbors.": {},
+      "Insertion and removal costs are precomputed for common node patterns.": {}
+    },
+    "The proposed algorithm enables interactive text tree comparison": {
+      "Traditional methods are too slow for user-facing applications.": {},
+      "This approach powers real-time collaborative editing of hierarchical documents.": {}
+    }
+  }
+}

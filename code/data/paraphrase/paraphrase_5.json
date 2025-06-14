@@ -1,0 +1,16 @@
+{
+  "A text tree similarity measurement technique combining Zhang-Shasha's structural comparison with neural language model embeddings.": {
+    "The primary innovation involves employing BERT-inspired embeddings for semantic distance calculation.": {
+      "Semantic proximity is evaluated through vector distance in embedding space.": {},
+      "Advanced language models provide the capability to understand and compare sentence meanings.": {}
+    },
+    "Zhang-Shasha's tree edit distance algorithm is enhanced with semantic-based cost metrics.": {
+      "Node update operations utilize semantic distance as their cost foundation.": {},
+      "The cost of adding or removing nodes depends on their similarity to null text representations.": {}
+    },
+    "This technique establishes a more meaningful text tree similarity assessment": {
+      "Conventional comparison methods neglect either the tree architecture or the semantic content of nodes.": {},
+      "Use cases include evaluating hierarchical knowledge structures such as concept maps.": {}
+    }
+  }
+}

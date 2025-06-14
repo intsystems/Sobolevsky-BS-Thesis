@@ -1,0 +1,16 @@
+{
+  "A Domain-Specific Algorithm for Legal Text Tree Edit Distance Adapting Zhang-Shasha's Algorithm with Legal-BERT Embeddings": {
+    "The algorithm specializes in legal documents through domain-specific embeddings.": {
+      "Embedding distance is tuned to legal semantics and terminology.": {},
+      "The language model is pretrained on case law and legal corpora.": {}
+    },
+    "Zhang-Shasha's algorithm is customized with legal-aware edit costs.": {
+      "Semantic similarity weights legal precedents and statutory interpretations.": {},
+      "Insertion and removal costs reflect the importance of legal clauses.": {}
+    },
+    "The proposed algorithm addresses unique challenges in legal document comparison": {
+      "General-purpose methods fail to capture nuances of legal text structures.": {},
+      "This method accurately compares contract hierarchies or case law decision trees.": {}
+    }
+  }
+}

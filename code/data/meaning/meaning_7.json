@@ -1,0 +1,16 @@
+{
+  "A Privacy-Preserving Algorithm for Text Tree Edit Distance Based on Zhang-Shasha's Algorithm with Federated BERT Embeddings": {
+    "The algorithm's key feature is its use of federated learning for BERT-like embeddings.": {
+      "Embedding distance is computed without exposing raw text data across parties.": {},
+      "The language model is trained collaboratively while preserving data privacy.": {}
+    },
+    "Zhang-Shasha's algorithm operates on encrypted similarity measures.": {
+      "Semantic similarity is computed using secure multi-party computation techniques.": {},
+      "Insertion and removal costs are calculated using homomorphically encrypted embeddings.": {}
+    },
+    "The proposed algorithm enables secure comparison of sensitive text trees": {
+      "Current methods require sharing raw text data, creating privacy risks.": {},
+      "This approach allows confidential comparison of medical records or legal documents in tree form.": {}
+    }
+  }
+}

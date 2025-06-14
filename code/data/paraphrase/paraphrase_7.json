@@ -1,0 +1,16 @@
+{
+  "A BERT-enhanced text tree comparison algorithm building upon Zhang-Shasha's edit distance.": {
+    "The distinctive aspect is the semantic similarity measurement using language model embeddings.": {
+      "Semantic differences are quantified through embedding vector comparisons.": {},
+      "Neural language models capture deep semantic relationships between text elements.": {}
+    },
+    "The classical Zhang-Shasha algorithm is refined with semantic operation costs.": {
+      "Node update costs are determined by their semantic dissimilarity.": {},
+      "The price of adding or removing nodes is set by their distance from empty meaning.": {}
+    },
+    "This solution provides a more nuanced text tree similarity analysis": {
+      "Existing approaches are deficient in either structural or semantic examination.": {},
+      "Valuable for tasks requiring comparison of hierarchical text organizations.": {}
+    }
+  }
+}
